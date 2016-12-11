@@ -39,8 +39,10 @@ h2 {
   text-transform: capitalize;
 }
 
-p {
+p, img {
   margin-bottom: 20px;
+  width: 100%;
+  height: auto;
 }
 
 a {
